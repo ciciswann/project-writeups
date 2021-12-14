@@ -34,7 +34,7 @@ The hardware portion of this project is fairly plug and play, with the exception
 ### Software Reqs 
 The following need to be installed on your pi:
 - [Shairport-sync-mqtt-display](https://github.com/idcrook/shairport-sync-mqtt-display)(Python-flaschen-taschen)
-- Shairport-sync
+- Shairport-sync (instructions for installation can be followed in the documentation mentioned below)
 - MQTT Broker (I used [Mosquitto](https://mosquitto.org/download/))
 - [Flaschen-Taschen](https://github.com/hzeller/flaschen-taschen.git)
 
