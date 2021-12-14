@@ -1,4 +1,4 @@
-# Project Write-Ups
+# Project Write-Ups 
 Write-ups for hardware projects I've completed or am currently working on.
 
 ![original](https://user-images.githubusercontent.com/17733481/146074542-fb7cf1b4-03c9-49d3-95a5-fd3a1cfece4f.gif)
@@ -6,13 +6,13 @@ Write-ups for hardware projects I've completed or am currently working on.
 ## Projects
 
 
-- [Album Art Display on 64x64 LED RGB Matrix w/ Raspberry Pi 4](#album-art-display)
+- [Album Art Display on 64x64 LED RGB Matrix w/ Raspberry Pi 4 🎶](#album-art-display)
 - 6502 Microprocessor Breadboard Computer (WIP)
 - Macro Keyboard (WIP)
 
 
 ## Album Art Display
-Credit for this project idea goes to a user on the [r/raspberry-pi subreddit](https://www.reddit.com/r/raspberry_pi/comments/ombwwg/my_64x64_rgb_led_matrix_album_art_display_pi_3b/). It is a pretty good beginner project to start learning more about IoT and networking, as well as making minor hardware modifications that require soldering. 
+Credit for this project idea goes to a user on the [r/raspberry-pi subreddit](https://www.reddit.com/r/raspberry_pi/comments/ombwwg/my_64x64_rgb_led_matrix_album_art_display_pi_3b/). It's a pretty good beginner project to start learning more about IoT and networking, as well as learning how to make minor modifications that require soldering. 
 
 ### Preview
 
