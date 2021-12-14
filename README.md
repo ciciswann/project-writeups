@@ -12,7 +12,7 @@ Write-ups for hardware projects I've completed or am currently working on.
 
 
 ## Album Art Display
-This project idea was taken from the r/raspberry-pi subreddit. It is a pretty good beginner project to start learning more about IoT and networking, as well as making minor hardware modifications that require soldering. 
+Credit for this project idea goes to a user on the [r/raspberry-pi subreddit](https://www.reddit.com/r/raspberry_pi/comments/ombwwg/my_64x64_rgb_led_matrix_album_art_display_pi_3b/). It is a pretty good beginner project to start learning more about IoT and networking, as well as making minor hardware modifications that require soldering. 
 
 ### Preview
 
