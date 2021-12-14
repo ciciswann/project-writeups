@@ -40,7 +40,7 @@ The following need to be installed on your pi:
 
 ### Software Overview
 
-The [documentation written by idcrook](https://github.com/idcrook/shairport-sync-mqtt-display/wiki) needs to be followed very carefully (follow the python-flaschen-taschen instructions for this specific project). When configuring shairport-sync make sure to include `--with-mqtt-client --with-pipe --with-airplay-2`. Before configuring shairport-sync, make sure to install your MQTT Broker. 
+The [documentation written by idcrook](https://github.com/idcrook/shairport-sync-mqtt-display/wiki) needs to be followed very carefully (also, follow the python-flaschen-taschen instructions for this specific project). When configuring shairport-sync make sure to include `--with-mqtt-client --with-pipe --with-airplay-2`. Before configuring shairport-sync, make sure to install your MQTT Broker. 
 
 At the end you should have shairplay-sync and MQTT broker running as services. You should also have the python-flaschen-taschen app.py running (`python3 app.py`) from inside the shairport-sync-mqtt-display directory and the Flaschen-Taschen server running (`sudo ./ft-server --led-gpio-mapping=adafruit-hat-pwm --led-slowdown-gpio=2 --led-rows=64 --led-cols=64 --led-show-refresh --led-brightness=50`). 
 
