@@ -63,5 +63,7 @@ This specific build was inspired by one of my favorite youtubers (Ben Eater). Th
 A 3D printed macro keyboard case with a small OLED attachment. Macros created by yours truly. 
 
 ### Preview
-![image](https://user-images.githubusercontent.com/17733481/146107943-21462a21-e250-4b97-8a39-28e76b0f27a4.png)
+
+![image](https://user-images.githubusercontent.com/17733481/146108600-e0d7c36f-e087-493c-a6db-ce3d424c0fb3.png)
+
 
