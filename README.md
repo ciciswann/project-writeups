@@ -47,7 +47,7 @@ At the end you should have shairplay-sync and MQTT broker running as services. Y
 
 ## 6502 Breadboard Computer
 
-*Work in Progress Build*
+*Work in Progress Build* \
 This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. 
 
 ## Macro Keyboard with Oled
