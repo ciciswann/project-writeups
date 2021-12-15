@@ -53,7 +53,7 @@ At the end you should have shairplay-sync and MQTT broker running as services. Y
 This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. 
 
 ## Preview
-Final result (image courtesy of eater.net) - I will be posting images of my project and a video of a game I've been working on in assembly once completed.
+Final result (image courtesy of eater.net) - I will be posting images of my project and a video of a game I've been working on in assembly once completed. \
 ![image](https://user-images.githubusercontent.com/17733481/146108119-390edaeb-bc2b-4955-8d81-9244fb2a2c4c.png)
 
 
