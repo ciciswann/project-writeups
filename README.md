@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/17733481/146075286-3e12e833-f6dc-4c50-
 
 Soldering is required for the Bonnet to work with 64x64 Matrix. I use a Hakko FX888D-23BY digital soldering iron.
 
-### Hardware Instructions
+### Hardware Overview
 
 The hardware portion of this project is fairly plug and play, with the exception of some minor soldering on the bonnet to enable [PWM](https://learn.sparkfun.com/tutorials/pulse-width-modulation/all) and get the bonnet working with the 64x64 matrix. Make sure to read all of the [documentation for setup of the bonnet and matrix](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/). 
 
@@ -50,7 +50,7 @@ At the end you should have shairplay-sync and the MQTT broker running as service
 *Work in Progress Build* 
 
 
-This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. 
+This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. I would like to make another variation of this project on a printed circuit board (PCB). 
 
 ### Preview
 Final result (image courtesy of eater.net) - I will be posting images of my project and a video of a game I've been working on in assembly once completed. \
