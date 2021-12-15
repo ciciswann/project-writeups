@@ -49,9 +49,19 @@ At the end you should have shairplay-sync and MQTT broker running as services. Y
 
 *Work in Progress Build* 
 
+
 This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. 
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/17733481/146108119-390edaeb-bc2b-4955-8d81-9244fb2a2c4c.png)
+
 
 ## Macro Keyboard with Oled
 *Work in Progress Build*
 
 A 3D printed macro keyboard case with a small OLED attachment. Macros created by yours truly. 
+
+### Preview
+![image](https://user-images.githubusercontent.com/17733481/146107943-21462a21-e250-4b97-8a39-28e76b0f27a4.png)
+
