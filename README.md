@@ -7,8 +7,8 @@ Write-ups for hardware projects I've completed or am currently working on.
 
 
 - [Album Art Display on 64x64 LED RGB Matrix w/ Raspberry Pi 4 🎶](#album-art-display)
-- 6502 Microprocessor Breadboard Computer (WIP)
-- Macro Keyboard (WIP)
+- [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer) (WIP)
+- [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled) (WIP)
 
 
 ## Album Art Display
@@ -45,3 +45,12 @@ The [documentation written by idcrook](https://github.com/idcrook/shairport-sync
 At the end you should have shairplay-sync and MQTT broker running as services. You should also have the python-flaschen-taschen app.py running (`python3 app.py`) from inside the shairport-sync-mqtt-display directory and the Flaschen-Taschen server running (`sudo ./ft-server --led-gpio-mapping=adafruit-hat-pwm --led-slowdown-gpio=2 --led-rows=64 --led-cols=64 --led-show-refresh --led-brightness=50`). 
 
 
+## 6502 Breadboard Computer
+
+*Work in Progress Build*
+This specific build was inspired by one of my favorite youtubers (Ben Eater). This has probably been one of my most challenging projects to date because I started at a baseline of knowing absolutely nothing about electrical schematics or electricity in general. 
+
+## Macro Keyboard with Oled
+*Work in Progress Build*
+
+A 3D printed macro keyboard case with a small OLED attachment. Macros created by yours truly. 
