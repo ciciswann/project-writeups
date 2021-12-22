@@ -57,10 +57,9 @@ There's something really cool about hardware that uses its electronic components
 - Durock stabilizers
 - Durock 67G Linear Switches (Smokey Teal)
 - Kuro Shiro Japanese Keycaps (Hiragana)
-- Krytox 205G0 Lubricant 
 - Mill-max 0305 sockets (this converts the PCB to hot swappable, so you can switch out switches) 
 
-Soldering Iron, flux, and solder for (you guessed it) soldering. 
+Soldering Iron, flux, and solder for (you guessed it) soldering. Stabilizers and switches lubed with Krytox 205G0 Lubricant (this lube is only really recommended for linear switches, or tactile if you use a very light hand).
 
 ### Hardware Overview 
 
