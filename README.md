@@ -9,6 +9,7 @@ All project images and videos were taken by me unless stated otherwise.
 
 
 - [Album Art Display on 64x64 LED RGB Matrix w/ Raspberry Pi 4 🎶](#album-art-display)
+- [Gingham Through Hole Keyboard](#gingham-through-hole-keyboard)
 - [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer) (WIP)
 - [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled) (WIP)
 
@@ -46,6 +47,31 @@ The [documentation written by idcrook](https://github.com/idcrook/shairport-sync
 
 At the end you should have shairplay-sync and the MQTT broker running as services. You should also have the python-flaschen-taschen app.py running (`python3 app.py`) from inside the shairport-sync-mqtt-display directory and the Flaschen-Taschen server running (`sudo ./ft-server --led-gpio-mapping=adafruit-hat-pwm --led-slowdown-gpio=2 --led-rows=64 --led-cols=64 --led-show-refresh --led-brightness=50`). 
 
+## Gingham Through Hole Keyboard
+There's something really cool about hardware that uses its electronic components as part of its overall design. This Gingham through hole keyboard was a fun build that involves quite a bit of soldering with 64-1N4148 diodes and 28 other components.
+
+![image](https://user-images.githubusercontent.com/17733481/147046329-ed06e2de-c081-42a1-944b-5b47bde3c2f6.png)
+
+### Hardware Components
+- Gingham Keyboard PCB & Components (NovelKeys)
+- Durock stabilizers
+- Durock 67G Linear Switches (Smokey Teal)
+- Kuro Shiro Japanese Keycaps (Hiragana)
+- Krytox 205G0 Lubricant 
+- Mill-max 0305 sockets (this converts the PCB to hot swappable, so you can switch out switches) 
+
+Soldering Iron, flux, and solder for (you guessed it) soldering. 
+
+### Hardware Overview 
+
+There's a lot of components that need to be soldered onto the PCB, so the build did take a few hours. Like with most builds, I started with the smallest components first and finished with the switches. The pins on the USB-C connector are very small so they required flux and a [drag-soldering technique](https://hackaday.com/tag/drag-soldering/) to get the connector affixed to the board. 
+
+### Software Reqs
+- [VIA](https://github.com/the-via/releases/releases/tag/v1.3.1)
+
+### Software Overview
+
+I installed VIA and before soldering on switches (or Mill-max sockets), hooked up the keyboard to my PC for the keyboard test. To test, all I did was touch each switch placement (with two pads) on the PCB with a pair of metal tweezers (essentially completing the circuit) to get each key to register. 
 
 ## 6502 Breadboard Computer
 
