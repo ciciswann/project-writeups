@@ -48,7 +48,7 @@ The [documentation written by idcrook](https://github.com/idcrook/shairport-sync
 At the end you should have shairplay-sync and the MQTT broker running as services. You should also have the python-flaschen-taschen app.py running (`python3 app.py`) from inside the shairport-sync-mqtt-display directory and the Flaschen-Taschen server running (`sudo ./ft-server --led-gpio-mapping=adafruit-hat-pwm --led-slowdown-gpio=2 --led-rows=64 --led-cols=64 --led-show-refresh --led-brightness=50`). 
 
 ## Gingham Through Hole Keyboard
-There's something really cool about hardware that uses its electronic components as part of its overall design. This Gingham through hole keyboard was a fun build that involves quite a bit of soldering with 64-1N4148 diodes and 28 other components.
+I love the look of through hole keyboards and this Gingham keyboard is no exception. There's just something really cool about hardware that uses its electronic components as part of its overall design. Overall, this was a fun build that involved quite a bit of soldering with 64-1N4148 diodes and 28 other components (not including switches).
 
 ![image](https://user-images.githubusercontent.com/17733481/147046329-ed06e2de-c081-42a1-944b-5b47bde3c2f6.png)
 
