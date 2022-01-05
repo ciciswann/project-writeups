@@ -12,6 +12,7 @@ All project images and videos were taken by me unless stated otherwise.
 - [Gingham Through Hole Keyboard](#gingham-through-hole-keyboard)
 - [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer) (WIP)
 - [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled) (WIP)
+- [Piano LED Visualizer](#piano-led-visualizer)
 
 
 ## Album Art Display
@@ -93,4 +94,8 @@ A 3D printed macro keyboard case with a small OLED attachment. Macros created by
 
 ![image](https://user-images.githubusercontent.com/17733481/146108600-e0d7c36f-e087-493c-a6db-ce3d424c0fb3.png)
 
+## Piano LED Visualizer
 
+A simple project built with a programmable LED strip and Raspberry Pi. The LED strip lights up as you play the piano.
+
+### Preview
