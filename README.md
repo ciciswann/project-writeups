@@ -3,7 +3,7 @@ Write-ups for hardware projects I've completed or am currently working on.
 
 ![original](https://user-images.githubusercontent.com/17733481/146074542-fb7cf1b4-03c9-49d3-95a5-fd3a1cfece4f.gif)
 
-All project images and videos were taken by me unless stated otherwise.
+> All project images and videos were taken by me unless stated otherwise.
 
 ## Projects
 
