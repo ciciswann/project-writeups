@@ -96,7 +96,7 @@ A 3D printed macro keyboard case with a small OLED attachment. Macros created by
 
 ## Piano LED Visualizer
 
-A simple project built with a programmable LED strip and Raspberry Pi. The LED strip lights up as you play the piano (because who doesn't want their hands to light up while playing?!)
+A simple project built with a programmable LED strip and Raspberry Pi. The LED strip lights up as you play the piano, because who doesn't want their hands to light up while playing?! (me, it's very distracting)
 
 ### Preview
 *Recording a video of it in action. Idk what to play..maybe just hanon exercises.*
