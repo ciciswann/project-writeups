@@ -75,7 +75,7 @@ There's a lot of components that need to be soldered onto the PCB, so the build 
 I installed VIA and before soldering on switches (or Mill-max sockets), hooked up the keyboard to my PC for the keyboard test. To test, all I did was touch each switch placement (with two pads) on the PCB with a pair of metal tweezers (essentially completing the circuit) to get each key to register. 
 
 ## Ikki68 PnC Keyboard
-The Ikki68 Aurora x PnC is an affordable, injection molded, polycarbonate case, gasket-mount keyboard kit from Wuque Studio. The overall build was a breeze with no soldering required as I went with a hot swappable PCB.
+The Ikki68 Aurora x PnC is an injection molded, polycarbonate case, gasket-mount keyboard kit from Wuque Studio. The overall build was a breeze with no soldering required as I went with a hot swappable PCB.
 
 ![ikki68](https://user-images.githubusercontent.com/17733481/150619501-17a249dd-794a-4d84-b400-64200b1107c3.png)
 ![ikki68-badge-sml](https://user-images.githubusercontent.com/17733481/150619504-82c8c5ad-e94f-4abb-8d13-0be5d01cd4c5.png)
