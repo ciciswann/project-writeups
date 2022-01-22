@@ -95,6 +95,8 @@ The Ikki68 Aurora x PnC is an affordable, injection molded, polycarbonate case, 
 * **Keycap Set (pictured and from separate purchase):** NP PBT Crayon Keycap Set \
 * **Switches (separate purchase)**: Gateron Black Ink V2 Linears
 
+*Note:* It doesn't come with the cute guitar picks in the picture either. I just love them.
+
 ### Hardware Overview
 Nothing eventful to report. The build was very simple with the only issue I found to be the height of the silicone gaskets. They weren't high enough, so I just went with the poron gaskets and have had no issues with it so far. All my linear switches and stabilizers were lubed with Krytox 205G0. I may go back and holee mod the stabs later. 
 
