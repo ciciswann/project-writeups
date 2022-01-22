@@ -10,6 +10,7 @@ Write-ups for hardware projects I've completed or am currently working on.
 
 - [Album Art Display on 64x64 LED RGB Matrix w/ Raspberry Pi 4 🎶](#album-art-display)
 - [Gingham Through Hole Keyboard](#gingham-through-hole-keyboard)
+- [Ikki68 Aurora PnC Keyboard](#ikki68-pnc-keyboard)
 - [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer) (WIP)
 - [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled) (WIP)
 - [Piano LED Visualizer](#piano-led-visualizer)
@@ -72,6 +73,30 @@ There's a lot of components that need to be soldered onto the PCB, so the build 
 ### Software Overview
 
 I installed VIA and before soldering on switches (or Mill-max sockets), hooked up the keyboard to my PC for the keyboard test. To test, all I did was touch each switch placement (with two pads) on the PCB with a pair of metal tweezers (essentially completing the circuit) to get each key to register. 
+
+## Ikki68 PnC Keyboard
+The Ikki68 Aurora x PnC is an affordable, injection molded, polycarbonate case, gasket-mount keyboard kit from Wuque Studio. The overall build was a breeze with no soldering required as I went with a hot swappable PCB.
+
+![ikki68](https://user-images.githubusercontent.com/17733481/150619501-17a249dd-794a-4d84-b400-64200b1107c3.png)
+![ikki68-badge-sml](https://user-images.githubusercontent.com/17733481/150619504-82c8c5ad-e94f-4abb-8d13-0be5d01cd4c5.png)
+
+### Hardware Components
+* Ikki68 Aurora x PnC Case
+* Multi-layout Hot Swap QMK PCB (Fairbanks)
+* Hotswap Namebadge Set
+* Aluminum Plate
+* Silicone Dampening Pad between PCB and Case
+* Silicone Dampening Pad between Plate and PCB
+* Silicone Gaskets and Poron Gaskets (your choice, but alas the silicon gaskets aren't at an optimum height to function correctly so I went with Poron)
+* Coiled USB A to USB C Cable
+* PnC Themed Stabilizer set (6x 2u, 1x 6.125)
+* Hex Screwdriver
+* Spare screws, diodes, sockets, and rubber feet
+**Keycap Set (pictured and from separate purchase):** NP PBT Crayon Keycap Set
+**Switches (separate purchase)**: Gateron Black Ink Linears
+
+### Hardware Overview
+Nothing eventful to report. The build was very simple with the only issue I found to be the height of the silicone gaskets. They weren't high enough, so I just went with the poron gaskets and have had no issues with it so far. All my linear switches and stabilizers were lubed with Krytox 205G0. I may go back and holee mod the stabs later. 
 
 ## 6502 Breadboard Computer
 
